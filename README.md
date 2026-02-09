@@ -13,9 +13,9 @@ Software Engineer focused on building scalable systems, solving complex problems
 
 * **AI Assistant :** Voice-controlled assistant like jarvis.
 * **SonicGraph:** Real-time sound detection and visualization system with esp 32.
-* **Ninja Escape:**2D Game made in Godot Game engine.
-* **Air Sensor AI:**Air quality monitor and prediction system.
-* **WebChat:**Web chat application using socketio.
+* Ninja Escape:2D Game made in Godot Game engine.
+* Air Sensor AI:Air quality monitor and prediction system.
+* WebChat:Web chat application using socketio.
 
 ## Competitive Programming
 
