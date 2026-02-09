@@ -1,43 +1,27 @@
-# Hi 👋, I'm Harshit Namdev
+# Harshit Namdev
 
-🎓 B.Tech CSE Student | 💻 Backend & Problem Solving  
-🐧 Linux User | 🐳 Docker Learner | 🚀 Aspiring Software Engineer  
+Software Engineer focused on building scalable systems, solving complex problems, and mastering computer science fundamentals.
 
----
+## Skills
 
-## 👨‍💻 About Me
-- I'm a Computer Science Engineering student who enjoys **building real-world projects**
-- I like working close to the system: **Linux, APIs, backend logic**
-- Currently focused on **DSA, Backend Development, and DevOps basics**
-- Believe in **learning by building**, not just watching tutorials
+* **Languages:** C++, Python, Kotlin, JavaScript
+* **Core:** Data Structures & Algorithms, OOP, Problem Solving
+* **Technologies:** Git, Linux, Android Development, ESP32 / IoT
+* **Currently Learning:** Machine Learning, Backend Development, System Design
 
----
+## Projects
 
-## 🛠️ Tech Stack
-**Languages**
-- C++
-- Python
-- Java (Basics)
+* **AI Assistant (ESP32):** Voice-controlled assistant using microcontroller integration
+* **SonicGraph:** Real-time sound detection and visualization system
+* **Android Apps:** Mobile applications built using Kotlin
 
-**Backend & Tools**
-- FastAPI
-- REST APIs
-- Docker
-- Git & GitHub
+## Competitive Programming
 
-**CS Fundamentals**
-- Data Structures & Algorithms
-- Operating Systems (Linux)
-- Computer Networks (Basics)
+* Regular LeetCode practice focused on medium and hard problems
+* Strong focus on algorithmic thinking and optimization
 
----
+## Education
 
-## 📌 What I'm Currently Doing
-- Solving **DSA problems daily** (LeetCode / practice)
-- Building **API-based projects** using FastAPI
-- Learning **Docker & Linux internals**
-- Improving **problem-solving & communication skills**
+B.Tech in Computer Science and Engineering
 
----
 
-⭐ *“Consistency beats motivation. Learning beats talent.”*
