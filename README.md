@@ -22,8 +22,6 @@ Software Engineer focused on building scalable systems, solving complex problems
 * Regular LeetCode practice focused on medium and hard problems
 * Strong focus on algorithmic thinking and optimization
 
-## Education
 
-B.Tech in Computer Science and Engineering
 
 
